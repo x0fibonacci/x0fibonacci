@@ -4,7 +4,9 @@ Backend developer С, Rust
 
 #### Мои репозитории
 
-[Matreshka](https://github.com/x0fibonacci/Matreshka)
+[Matreshka](https://github.com/x0fibonacci/Matreshka)</p>
+
+Решение для оркестрации PostgreSQL и обеспечения высокой доступности (автофейловера) кластеров Leader-Followers конфигурации.
 
 [R7Riuting](https://github.com/x0fibonacci/R7Routing)
 
