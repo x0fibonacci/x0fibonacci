@@ -1,8 +1,8 @@
 ## Maksim Talbushkin
 
 #### Обо мне
-Backend developer </p>
-С, Rust
+Backend developer С, Rust
+
 #### Мои репозитории
 
 #### Публикации
